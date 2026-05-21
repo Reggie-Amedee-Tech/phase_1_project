@@ -3,3 +3,5 @@ requests
 matplotlib
 jupyter
 python-dotenv
+protobuf 
+gtfs-realtime-bindings

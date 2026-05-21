@@ -27,3 +27,24 @@ Created the folders required.
 Answered the above questions as a team.
 Created a README.
 
+# Answer to required questions
+- What does your dataset explore?
+    - It explored the train lines real time schedules.
+- What is your dependent variable in the data you are pulling from?
+    - I believe the dependant varible for this data set is start_time, start_date, weather conditions, borough
+- Is this variable categorical or quantitative? 
+    - This variable is quantitative
+- How many independent variables do you have? (you should have more than 5 independent variables)
+    - We have 2 quantitative variables and 2 categorical variables
+- How large is your dataset? (it should be larger than 1000 rows, but the more the better the powerLinks to an external site.)
+    - Our data set is 1,162 rows
+
+### Worker Roles
+    - Marquita[Stats work]
+    - Reginald[Guide, data pipeline]
+    - Josie[Project Manager]
+    - Sasha[Data Visualizations]
+    - Amina
+    - Lavenda[Project Manager]
+
+
