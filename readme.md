@@ -44,7 +44,7 @@ Created a README.
     - Reginald[Guide, data pipeline]
     - Josie[Project Manager]
     - Sasha[Data Visualizations]
-    - Amina
+    - Amina[Data Steward]
     - Lavenda[Project Manager]
 
 
